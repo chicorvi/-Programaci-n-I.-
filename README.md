@@ -1,0 +1,6 @@
+hola suvi un achivo con  For, While, Do-While, Vector y Matriz)
+forSe suele utilizar para inicializar índices de bucle. Puede contener expresiones o declaraciones. Antes de la ejecución de cada iteración de statement , incluida la primera iteración
+Un bucle while tiene asociado un bloque de sentencias que se ejecutarán secuencialmente mientras la condición de entrada al bucle sea cierta. La condición se evalúa al comienzo de la estructura. Esto supone que el bloque de instrucciones puede no ejecutarse ninguna vez si la condición es inicialmente falsa.
+La instrucción do-while permite repetir una instrucción o una instrucción compuesta hasta que una expresión especificada sea false.
+vectorLa clase vector de la Biblioteca Estándar de C++ es una plantilla de clase para contenedores de secuencia. Una plantilla de clase que almacena los elementos de un tipo determinado en una organización lineal y permite el acceso aleatorio rápido a cualquier elemento.
+matriz  Un arreglo (matriz) es una colección ordenada de datos (tanto primitivos u objetos dependiendo del lenguaje). Los arreglos (matrices) se emplean para almacenar multiples valores en una sola variable, frente a las variables que sólo pueden almacenar un valor (por cada variable)
